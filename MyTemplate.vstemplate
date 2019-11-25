@@ -1,0 +1,55 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Mateusz_Monikowski_175641</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Mateusz_Monikowski_175641</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="obiektowe.vcxproj" File="obiektowe.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">obiektowe.vcxproj.filters</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Antylopa.cpp">Antylopa.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Barszcz.cpp">Barszcz.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="conio2.cpp">conio2.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Czlowiek.cpp">Czlowiek.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Guar.cpp">Guar.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Jagody.cpp">Jagody.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Lis.cpp">Lis.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Mlecz.cpp">Mlecz.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Organizm.cpp">Organizm.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Owca.cpp">Owca.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Roslina.cpp">Roslina.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Swiat.cpp">Swiat.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Trawa.cpp">Trawa.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Wilk.cpp">Wilk.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Zolw.cpp">Zolw.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Zwierze.cpp">Zwierze.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="main.cpp">main.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Antylopa.h">Antylopa.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Barszcz.h">Barszcz.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Guar.h">Guar.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Header.h">Header.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Czlowiek.h">Czlowiek.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="conio2.h">conio2.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Jagody.h">Jagody.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Lis.h">Lis.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Mlecz.h">Mlecz.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Owca.h">Owca.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Roslina.h">Roslina.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Trawa.h">Trawa.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Wilk.h">Wilk.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Zolw.h">Zolw.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Zwierze.h">Zwierze.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Organizm.h">Organizm.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Swiat.h">Swiat.h</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
